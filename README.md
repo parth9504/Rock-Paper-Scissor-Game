@@ -21,12 +21,12 @@ Overview of the Game:
 
 The screenshots attached below show a clear demonstration of this game.
 
-![Screenshot (445)](https://github.com/user-attachments/assets/300f517d-04d6-43d8-8835-482f564f08a1)
-
-![Screenshot (446)](https://github.com/user-attachments/assets/c78d63fe-d303-4bb8-ab51-0ee808ad6504)
-
 ![Screenshot (447)](https://github.com/user-attachments/assets/b790d9a7-4257-4dd3-8faa-2d9e8f672803)
 
 ![Screenshot (440)](https://github.com/user-attachments/assets/0f0e03ed-0ef8-498e-8e17-e4ee7e21807a)
+
+![Screenshot (445)](https://github.com/user-attachments/assets/300f517d-04d6-43d8-8835-482f564f08a1)
+
+![Screenshot (446)](https://github.com/user-attachments/assets/c78d63fe-d303-4bb8-ab51-0ee808ad6504)
 
 
